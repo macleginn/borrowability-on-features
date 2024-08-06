@@ -1,0 +1,15 @@
+*/__pycache__/ # Python cache
+*/.ipynb_checkpoints/ # Jupyter notebook checkpoints
+*/.vscode/ # Visual Studio Code settings
+*/.idea/ # PyCharm settings
+*/.pytest_cache/ # Pytest cache
+*/.mypy_cache/ # Mypy cache
+*/.tox/ # Tox virtualenvs
+*/.venv/ # Virtualenv
+*/.env/ # Python env
+*/.eggs/ # Python eggs
+*/.git/ # Git
+*/.hg/ # Mercurial
+*/.svn/ # Subversion
+*/.DS_Store # macOS
+
